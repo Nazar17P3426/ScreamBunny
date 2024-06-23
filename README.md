@@ -1,2 +1,2 @@
-# ScreamBunny.exe-My-New-Malwaree
-No Skidddddd Mememmemememe Malware Here Is Skidded By N17Pro3426
+# ScreamBunny
+C++ short skidded GDI trojan by Hugopako
